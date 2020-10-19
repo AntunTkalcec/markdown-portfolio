@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Doma
+* Fast Food
+  * Mrak
+  *Garfield
+* Restoran
+  * Čingač
+  *Tomislav
