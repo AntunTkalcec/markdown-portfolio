@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I *work out every day* and I *study informatics*, which I _enjoy_.
+_I **really** want to learn high income skills_.
+**I know some of _C++_.**
